@@ -1,0 +1,17 @@
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Data.deps.json
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Data.runtimeconfig.json
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Data.dll
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Data.pdb
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Domain.dll
+D:\projeto\Teste.Drugovish\Teste.Data\bin\Debug\net6.0\Teste.Domain.pdb
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.AssemblyReference.cache
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.AssemblyInfoInputs.cache
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.AssemblyInfo.cs
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.CoreCompileInputs.cache
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.csproj.CopyComplete
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.dll
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\refint\Teste.Data.dll
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.pdb
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\Teste.Data.genruntimeconfig.cache
+D:\projeto\Teste.Drugovish\Teste.Data\obj\Debug\net6.0\ref\Teste.Data.dll

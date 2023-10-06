@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
