@@ -65,6 +65,7 @@
             // 
             // txtGerente
             // 
+            txtGerente.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             txtGerente.Location = new Point(3, 69);
             txtGerente.Multiline = true;
             txtGerente.Name = "txtGerente";

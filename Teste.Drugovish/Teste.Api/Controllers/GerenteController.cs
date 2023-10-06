@@ -17,7 +17,6 @@ namespace Teste.Application.Controllers
         }
 
         [HttpGet("entrar")]
-        [HttpGet]
         public async Task<ActionResult> Login(string nome)
         {
             if (!ModelState.IsValid)

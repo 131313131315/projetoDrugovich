@@ -77,11 +77,11 @@
             // lblGerente
             // 
             lblGerente.AutoSize = true;
+            lblGerente.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
             lblGerente.Location = new Point(27, 49);
             lblGerente.Name = "lblGerente";
-            lblGerente.Size = new Size(38, 15);
+            lblGerente.Size = new Size(0, 32);
             lblGerente.TabIndex = 1;
-            lblGerente.Text = "label1";
             // 
             // FrmPrincipal
             // 
